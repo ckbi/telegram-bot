@@ -1,2 +1,3 @@
 # telegram-bot
-Telegram bot that every 2 hours sends a message 
+Author @ckbi 
+Website: https://und3fy.com
